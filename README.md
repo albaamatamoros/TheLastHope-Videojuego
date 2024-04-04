@@ -1,4 +1,5 @@
-# THE LAST HOPE GDD
+# THE LAST HOPE - GDD
+(Este proyecto se ha creado como proyecto escolar final.)
 ## INTRODUCCIÓN
 
 The last hope es un videojuego 2D para PC creado para jóvenes de entre 15 y 30 años.
@@ -49,3 +50,57 @@ peor de los finales.
 #### GRÁFICOS
 
 Gráficos 2D en personajes, entornos e interfaz.
+
+### PÚBLICO OBJETIVO
+
+Nuestro publico objetivo es bastante extenso. El rango de edad que buscamos son desde
+chicos adolescentes de 15 años hasta adultos de 30 años.
+Los principales gustos para los jugadores objetivo son la lectura, que les guste leer y
+disfruten adentrándose en la historia, el mundo medieval, que sean admiradores de las
+épocas medievales y que sean lectores de manga y consumidores de anime.
+
+### SONIDOS
+
+Los sonidos de ambiente harán que te sumerjas en cada una de las escenas para darte
+la máxima sensación al jugar. Hemos escogido sonidos tanto relajantes para el jugador,
+como intensos para darle un toque emocionante. Queremos que nuestros clientes
+disfruten del contenido sonoro y que sientan emociones en los diferentes momentos
+de la historia.
+Estas son las paginas que usamos:
+
+1. Youtube
+2. Zapsplat
+3. Epidemic sounds
+4. Mixkit
+
+## REQUISITOS
+### REQUISITOS RECOMENDADOS
+#### SO
+
+Windows 8/Windows 10.
+
+#### PROCESADOR
+
+Intel i5-4590 / AMD FX 8350 equivalente o superior.
+
+#### MEMORIA
+
+4 GB de Ram o superior.
+
+#### GRÁFICOS
+
+Gráficos: NVIDIA GeForce® GTX 970 / AMD Radeon™ R9 290 equivalente o superior.
+
+#### ALMACENAMIENTO
+
+200 MB de espacio disponible.
+
+En general no se necesita mucha potencia, con componentes que funcionen con
+juegos básicos se puede jugar perfectamente ya que el juego no dispone de
+movimiento de jugador, ni acciones a tiempo real.
+
+### MOTOR GRÁFICO
+
+Unity
+
+
