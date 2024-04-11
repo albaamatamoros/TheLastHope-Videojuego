@@ -1,6 +1,8 @@
 # THE LAST HOPE - GDD
 [THE LAST HOPE - GDD VISUAL](https://drive.google.com/file/d/1_-YgO-vJwgk3O5UF4yb5OxKt--BxKLdL/view?usp=sharing)
+
 (Este proyecto se ha creado como proyecto escolar final.)
+
 ## INTRODUCCIÓN
 
 The last hope es un videojuego 2D para PC creado para jóvenes de entre 15 y 30 años.
