@@ -1,5 +1,5 @@
 # THE LAST HOPE - GDD
-[THE LAST HOPE - GDD VISUAL](https://github.com/albaamatamoros/TheLastHope-Videojuego/blob/main/DOCUMENTOS/GDD%20THE%20LAST%20HOPE.pdf)
+[THE LAST HOPE - GDD VISUAL](https://drive.google.com/file/d/1CH5wMvY9KlxFP6pTi6TrR3D9KyOovQQA/view?usp=drive_link)
 
 (Este proyecto se ha creado como proyecto escolar final.)
 
